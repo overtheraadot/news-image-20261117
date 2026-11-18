@@ -1,5 +1,9 @@
 # The World in One Page — 17 November 2026
 
+[![make.fun · news-image-20261117](https://make.fun/badge/news-image-20261117.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![rank](https://make.fun/badge/news-image-20261117/overtheraadot/news-image-20261117/rank.svg)](https://make.fun/bounty/news-image-20261117/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+[![reward](https://make.fun/badge/news-image-20261117/overtheraadot/news-image-20261117/reward.svg)](https://make.fun/bounty/news-image-20261117?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117)
+
 A make.fun bounty entry for **news-image-20261117**: "Sum up 17 November's
 world news in one image."
 
@@ -31,3 +35,7 @@ Writes to `$MAKEFUN_OUTPUT_DIR/entry.png` when set, otherwise to
 ## Output
 
 - 1024×1024 PNG, ~150 KB (limit 1 MiB), verified byte-identical across runs.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=8bg6hn2r&utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
